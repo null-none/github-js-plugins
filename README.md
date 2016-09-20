@@ -32,6 +32,7 @@ List javascript plugins on github
 **Forms**
 
 * [jQuery Form Plugin](https://github.com/malsup/form)
+* [ApproveJs is a simple JavaScript validation library that doesn't interfere] (https://github.com/CharlGottschalk/approvejs)
 
 **Navigation**
 
@@ -48,7 +49,26 @@ List javascript plugins on github
 **Animated effects**
 
 * [A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/daneden/animate.css/)
+* [Sharing Background Across Multiple Elements using CSS] (https://github.com/NeXTs/Multiple.js) <i>*****</i>
+* [A small, modern, dependency-free smooth scrolling library] (https://github.com/callmecavs/jump.js)
+
+**Web user interfaces**
+
+* [Monkberry is a JavaScript library for building web user interfaces](https://github.com/monkberry/monkberry)
+
+**Beautiful page**
+
+* [A simple library to show your users a beautiful splash page while your application loads.](https://github.com/Pathgather/please-wait)
+* [A jQuery plugin for implementing balancing of wrapping text in a web page] (https://github.com/adobe-webplatform/balance-text) <i>*****</i>
+
+
+**Push notification**
+* [A compact, cross-browser solution for the JavaScript Notifications API](https://github.com/Nickersoft/push.js)
+
 
 **Other**
 
 * [A very light solution to load web pages faster](https://github.com/Easyfood/pageAccelerator)
+* [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view) * [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view)
+* [Jquery + bootstrap filters rending out of the box for backoffice use] (https://github.com/ohadperry/jquery-filters-plugin)
+* [A NLP library for Russian language] (https://github.com/deNULL/Az.js)
