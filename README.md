@@ -69,6 +69,6 @@ List javascript plugins on github
 **Other**
 
 * [A very light solution to load web pages faster](https://github.com/Easyfood/pageAccelerator)
-* [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view) * [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view)
+* [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view) 
 * [Jquery + bootstrap filters rending out of the box for backoffice use] (https://github.com/ohadperry/jquery-filters-plugin)
 * [A NLP library for Russian language] (https://github.com/deNULL/Az.js)
