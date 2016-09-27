@@ -72,3 +72,5 @@ List javascript plugins on github
 * [Get notified when a DOM element enters or exits the viewport.] (https://github.com/camwiegert/in-view) 
 * [Jquery + bootstrap filters rending out of the box for backoffice use] (https://github.com/ohadperry/jquery-filters-plugin)
 * [A NLP library for Russian language] (https://github.com/deNULL/Az.js)
+* [A simple, lightweight JavaScript API for handling browser cookies] (https://github.com/js-cookie/js-cookie)
+
