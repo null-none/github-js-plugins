@@ -51,6 +51,7 @@ List javascript plugins on github
 * [A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/daneden/animate.css/)
 * [Sharing Background Across Multiple Elements using CSS] (https://github.com/NeXTs/Multiple.js) <i>*****</i>
 * [A small, modern, dependency-free smooth scrolling library] (https://github.com/callmecavs/jump.js)
+* [A simple library to take care of complicated animations.](https://christinecha.github.io/choreographer-js/)
 
 **Web user interfaces**
 
